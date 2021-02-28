@@ -3,4 +3,5 @@ resolusiku tahun 2021
 -menguasai html, css, dan javasript dasar
 -membuat website untuk portofolio
 -menguasai bahasa C++ dan python
+-membangun kembali channel youtube Arnoldy-CN
 
