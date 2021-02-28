@@ -2,3 +2,5 @@ resolusiku tahun 2021
 -mengetahui cara kerja git dan github
 -menguasai html, css, dan javasript dasar
 -membuat website untuk portofolio
+-menguasai bahasa C++ dan python
+
