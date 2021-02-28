@@ -1,0 +1,2 @@
+# resolusiku
+resolusiku untuk kedepannya
